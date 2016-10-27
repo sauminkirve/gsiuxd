@@ -12,8 +12,8 @@ If you have more questions or even an expert to answer these, we have a dedicate
 Joining our UX Slack community is very easy. Just log on to our website and complete the type form having 5 questions, that's it. Thank you!
 
 ## Join our UX Community
-[Request Invite](https://gsiuxd.herokuapp.com/){:target="_blank"}
-<iframe src="https://gsiuxd.herokuapp.com/" vspace="0" hspace="0" scrolling="no" frameborder=“0”></iframe>
+[Request Invite](https://gsiuxd.herokuapp.com/)
+![Preview Invite Link](https://github.com/abinashmohanty/gsiuxd/blob/master/invite.png "Preview Invite Link")
 Once you're submitted this form, just check your email, click **Get Started** button, and that will redirect to the following link aka log in page.
 
 [Log on to GSIUXD Community](https://getstartedinuxdesign.slack.com/)
