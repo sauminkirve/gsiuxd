@@ -24,3 +24,6 @@ We love hear and connect with all designers from different countries, and of cou
 ## Contact GSIUXD
 
 For anything else, kindly [get in touch](http://www.gsiuxd.co/contact-gsiuxd/)
+
+## Or connect with me via
+[Twitter](https://twitter.com/abinashmohanty) | [Google+](https://plus.google.com/+AbinashMohanty) | [LinkedIn](https://in.linkedin.com/in/abinashmohanty2015) | [Medium](https://medium.com/@abinashmohanty) 
