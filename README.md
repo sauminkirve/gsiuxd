@@ -15,7 +15,7 @@ Joining our UX Slack community is very easy. Just log on to our website and comp
 ![Preview Invite Link](https://github.com/abinashmohanty/gsiuxd/blob/master/invite_new.png "Preview Invite Link")
 Once submitted, just check your email, click **Get Started** button, and that will redirect to the following link aka log in page.
 
-[Log on to GSIUXD Community](https://getstartedinuxdesign.slack.com/)
+Already registered? [Log on to GSIUXD Community](https://getstartedinuxdesign.slack.com/)
 
 ## How can I join if I'm not from India
 
