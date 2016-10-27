@@ -13,7 +13,7 @@ Joining our UX Slack community is very easy. Just log on to our website and comp
 
 ## Join our UX Community
 [Request Invite](https://gsiuxd.herokuapp.com/)
-![Preview Invite Link](https://github.com/abinashmohanty/gsiuxd/blob/master/invite.png "Preview Invite Link")
+![Preview Invite Link](https://github.com/abinashmohanty/gsiuxd/blob/master/invite_new.png "Preview Invite Link")
 Once you're submitted this form, just check your email, click **Get Started** button, and that will redirect to the following link aka log in page.
 
 [Log on to GSIUXD Community](https://getstartedinuxdesign.slack.com/)
